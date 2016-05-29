@@ -13,8 +13,11 @@ import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String TIME_SERVER = "http://mapi.indiamart.com/wservce/im/category/";
+
+    //By Sachin
+    public static final String TIME_SERVER = "http://www.facebook.com";
     private static TextView textView;
+
 
     public static void calculate() {
 
